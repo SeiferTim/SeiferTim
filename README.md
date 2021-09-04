@@ -6,6 +6,8 @@ Founder of [Axol Studio, LLC](https://axolstudio.com/)
 
 Profile: [Tim's World](https://tims-world.com/)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M11CPV0)
+
 ## Currently Working On...
 
 :shushing_face: Shhhh... 😉 
