@@ -29,6 +29,8 @@
 
 - 🙌 I created **[<img src="hfm-logo.svg" width="14"  height="14"/> snippets.haxeflixel.com](https://snippets.haxeflixel.com/)**
 
+- 🎰 I created **[https://github.com/AxolStudio/hx-crowdcontrol](https://github.com/AxolStudio/hx-crowdcontrol)** - A [Crowd Control 2.0](https://crowdcontrol.live/) library for [Haxe](https://haxe.org/)
+
 - 👨‍💻 My Portfolio can be found at **[tims-world.com/](https://www.tims-world.com/)**
 
 - 📝 I sometimes write things at **[tims-world.com/blog/](https://www.tims-world.com/blog/)**
@@ -46,8 +48,10 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifertim&column=-1&theme=radical&no-bg=true&no-frame=true&margin-w=50" alt="seifertim" /></a> </p>
+<div style="display:flex; flex-direction: column; row-gap: 1rem;"><img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=seifertim&show_icons=true&theme=radical&locale=en&count_private=true" alt="seifertim-github-stats" /><img style="width:100%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=seifertim&show_icons=true&theme=radical&locale=en&layout=compact" alt="seifertim-github-languages" /><img style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=seifertim&theme=radical" alt="seifertim-github-streaks" /></div>
 
 ---
 
-<div style="display:flex; flex-direction: column; row-gap: 1rem;"><img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=seifertim&show_icons=true&theme=radical&locale=en&count_private=true" alt="seifertim-github-stats" /><img style="width:100%;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=seifertim&show_icons=true&theme=radical&locale=en&layout=compact" alt="seifertim-github-languages" /><img style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=seifertim&theme=radical" alt="seifertim-github-streaks" /></div>
+## 🏆 [GitHub Profile Trophies](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifertim&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" alt="seifertim" /></a> </p>
