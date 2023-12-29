@@ -5,7 +5,7 @@
 
 ---
 
-<h2 align="center">Check out <a href="https://axolstudio.com/projects/bring_it_on/">Bring It On!</a> My latest game now in Early Access!</h4>
+<h2 align="center">Check out <a href="https://bringiton.axolstudio.com/">Bring It On!</a> My latest game now in Early Access!</h4>
 
 ![Bring It On! Cover](bring-it-on-cover-w-logo.png)
 
