@@ -19,7 +19,7 @@
 
 - I am the Founder of **<a href="https://axolstudio.com/" target="blank">Axol Studio, LLC</a>** - an independent game development company.
 - 🎮 I’m currently working on the game **[Bring It On!](https://axolstudio.com/projects/bring_it_on/)**
-- 📰 I created **The St Louis Game Developer RoundUp](https://github.com/AxolStudio/STLGameDevRoundUp)** - A semi-weekly news aggrigation tool for the [St Louis Game Dev Community](http://stlgamedev.com/)
+- 📰 I created **[The St Louis Game Developer RoundUp](https://github.com/AxolStudio/STLGameDevRoundUp)** - A semi-weekly news aggrigation tool for the [St Louis Game Dev Community](http://stlgamedev.com/)
 - 🤝 I use and often contribute to **[<img src="haxeflixel.svg" width="14"  height="14"/> HaxeFlixel](https://haxeflixel.com/)**
 - 🙌 I created **[<img src="hfm-logo.svg" width="14"  height="14"/> snippets.haxeflixel.com](https://snippets.haxeflixel.com/)**
 - 🎰 I created **[https://github.com/AxolStudio/hx-crowdcontrol](https://github.com/AxolStudio/hx-crowdcontrol)** - A [Crowd Control 2.0](https://crowdcontrol.live/) library for [Haxe](https://haxe.org/)
